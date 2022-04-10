@@ -1,7 +1,7 @@
 # Blockchain
 Blockchain-Based Ledger System
 
-The Pychain_Ledger python file contains code for a blockchain-based ledger system, complete with a user-friendly web interface, which allow's partner banks to transfer money between senders and receivers, and verify the integrity of the data in the ledger.
+The pychain_ledger file contains code for a blockchain-based ledger system, complete with a user-friendly web interface, which allow's partner banks to transfer money between senders and receivers, and verify the integrity of the data in the ledger.
 
 For Step 4 in the file, the functionality Test the screen shots below shows a blockchain consisting of several blocks, as well as a screenshot of the Streamlit application page displaying “Blockchain is Valid.”
 ![pychain-ledger-multiple-blocks-plus-validation](https://user-images.githubusercontent.com/103196346/162597212-07faedbc-354b-4044-93e9-08f64c4686f3.png)
